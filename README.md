@@ -90,9 +90,7 @@ I work best with lo-fi music in the background—those chill beats help me focus
 </div>
 
 
----
 
-## ⚡ Footer | フッター  
 <div align="center">
   <!-- Example coding GIF -->
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Lo-fi GIF" />

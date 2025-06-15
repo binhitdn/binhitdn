@@ -1,64 +1,53 @@
-<div align="center"><strong>Next.js 14 Admin Dashboard Template</strong></div>
-<div align="center">Built with the Next.js App Router</div>
-<br />
+# <div align="center">✨ こんにちは、**Bình Phan**です ✨</div>
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me | 自己紹介**
 <div align="center">
-<a href="https://next-admin-dash.vercel.app/">Demo</a>
-<span> · </span>
-<a href="https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs">Clone & Deploy</a>
-<span>
+🌟 **Hey! I'm Bình Phan** - a passionate developer from Vietnam who loves crafting digital experiences!  
+**こんにちは！私はビン・ファンです** - デジタル体験を作ることが大好きなベトナム出身の情熱的なフルスタック開発者です！
+
 </div>
 
-## Overview
+### 🚀 **What I Do | 何をしているか**
+- 💻 Build awesome web apps with **Next.js** and **React**
+- 📱 Create beautiful mobile experiences with **Flutter** and **React Native** 
+- ⚡ Develop robust backends using **Node.js** and **Express**
+- 🎨 Design user-friendly interfaces that people love to use
 
-This is a starter template using the following stack:
+### 🌱 **Currently Learning | 現在学習中**
+- 🎯 Advanced Flutter animations for stunning mobile UIs
+- 🏗️ Microservices architecture with Node.js
+- 🇯🇵 Japanese language (because anime and tech blogs!)
+- 🔥 Latest web development trends and best practices
 
-- Framework - [Next.js (App Router)](https://nextjs.org)
-- Language - [TypeScript](https://www.typescriptlang.org)
-- Auth - [Auth.js](https://authjs.dev)
-- Database - [Postgres](https://vercel.com/postgres)
-- Deployment - [Vercel](https://vercel.com/docs/concepts/next.js/overview)
-- Styling - [Tailwind CSS](https://tailwindcss.com)
-- Components - [Shadcn UI](https://ui.shadcn.com/)
-- Analytics - [Vercel Analytics](https://vercel.com/analytics)
-- Formatting - [Prettier](https://prettier.io)
+### 🎵 **Fun Fact | 面白い事実**
+I code best with lo-fi music playing in the background - there's something magical about those chill beats that make the bugs easier to find! 
+Lo-fi音楽をバックグラウンドで流しながらコーディングするのが一番集中できます！
 
-This template uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
+---
 
-## Getting Started
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Stack | 技術スタック**
 
-During the deployment, Vercel will prompt you to create a new Postgres database. This will add the necessary environment variables to your project.
+<div align="center">
 
-Inside the Vercel Postgres dashboard, create a table based on the schema defined in this repository.
+### 🎨 **Frontend | フロントエンド**
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,flutter,dart" alt="Frontend Skills" />
 
-```
-CREATE TYPE status AS ENUM ('active', 'inactive', 'archived');
+### ⚡ **Backend | バックエンド** 
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,mongodb,postgresql,redis" alt="Backend Skills" />
 
-CREATE TABLE products (
-  id SERIAL PRIMARY KEY,
-  image_url TEXT NOT NULL,
-  name TEXT NOT NULL,
-  status status NOT NULL,
-  price NUMERIC(10, 2) NOT NULL,
-  stock INTEGER NOT NULL,
-  available_at TIMESTAMP NOT NULL
-);
-```
+### 📱 **Mobile | モバイル**
+<img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Skills" />
 
-Then, uncomment `app/api/seed.ts` and hit `http://localhost:3000/api/seed` to seed the database with products.
+### 🛠️ **Tools | ツール**
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,docker,postman,firebase" alt="Tools" />
 
-Next, copy the `.env.example` file to `.env` and update the values. Follow the instructions in the `.env.example` file to set up your GitHub OAuth application.
+</div>
 
-```bash
-npm i -g vercel
-vercel link
-vercel env pull
-```
+---
 
-Finally, run the following commands to start the development server:
 
-```
-pnpm install
-pnpm dev
-```
 
-You should now be able to access the application at http://localhost:3000.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>

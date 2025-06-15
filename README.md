@@ -1,52 +1,102 @@
-# <div align="center">✨ こんにちは、**Bình Phan**です ✨</div>
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me | 自己紹介**
+<!-- Header wave animation -->
 <div align="center">
-🌟 **Hey! I'm Bình Phan** - a passionate developer from Vietnam who loves crafting digital experiences!  
-**こんにちは！私はビン・ファンです** - デジタル体験を作ることが大好きなベトナム出身の情熱的なフルスタック開発者です！
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 </div>
 
-### 🚀 **What I Do | 何をしているか**
-- 💻 Build awesome web apps with **Next.js** and **React**
-- 📱 Create beautiful mobile experiences with **Flutter** and **React Native** 
-- ⚡ Develop robust backends using **Node.js** and **Express**
-- 🎨 Design user-friendly interfaces that people love to use
+<!-- Main title -->
+<h1 align="center">
+  ✨ Hello, I’m Bình Phan | こんにちは、ファン・コン・ビンです ✨
+</h1>
 
-### 🌱 **Currently Learning | 現在学習中**
-- 🎯 Advanced Flutter animations for stunning mobile UIs
-- 🏗️ Microservices architecture with Node.js
-- 🇯🇵 Japanese language (because anime and tech blogs!)
-- 🔥 Latest web development trends and best practices
-
-### 🎵 **Fun Fact | 面白い事実**
-I code best with lo-fi music playing in the background - there's something magical about those chill beats that make the bugs easier to find! 
-Lo-fi音楽をバックグラウンドで流しながらコーディングするのが一番集中できます！
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Software+Developer+from+Vietnam;ベトナム出身のソフトウェア開発者;Building+Refined+Digital+Experiences;洗練されたデジタル体験を創造;Lo-fi+beats+fuel+my+focus;ローファイビートで集中力アップ"
+    alt="Typing Animation"
+  />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Stack | 技術スタック**
+## 🙋 About Me | 自己紹介
+
+<div align="center">
+I’m Bình Phan, a software developer based in Vietnam.  
+ベトナムを拠点に活動するソフトウェア開発者、ビン・ファンです。  
+
+I enjoy crafting refined user experiences.  
+洗練されたユーザー体験の構築を楽しんでいます。  
+
+I also explore Japanese culture and code to lo-fi rhythms.  
+日本文化を探求しながら、ローファイサウンドでコーディングしています。  
+</div>
+
+---
+
+## 🚀 What I Do | 何をしているか
+
+- 💻 Build web applications with **Next.js** and **React**  
+  **Next.js** と **React** を使ったウェブアプリ開発
+
+- 📱 Develop mobile apps using **Flutter** and **React Native**  
+  **Flutter** や **React Native** を使ったモバイルアプリ開発
+
+- ⚡ Create backends with **Node.js** (Express, NestJS), **FastAPI**, **Python**  
+  **Node.js**（Express, NestJS）、**FastAPI**、**Python** を活用したバックエンド開発
+
+- 🎨 Design intuitive interfaces focused on user experience  
+  ユーザー体験を重視した直感的なインターフェース設計
+
+---
+
+## 🌱 Currently Learning | 現在学習中
+
+- 🎯 Advanced Flutter animations for polished mobile UIs  
+  洗練されたモバイルUIのための高度なFlutterアニメーション
+
+- 🏗️ Microservices architecture with Node.js, Docker, Kubernetes  
+  Node.js、Docker、Kubernetes を活用したマイクロサービスアーキテクチャ
+
+- 🇯🇵 Japanese language and culture (anime, tech blogs, etc.)  
+  日本語および日本文化（アニメ、技術ブログなど）の学習
+
+- 🔥 Latest web development trends: Edge Functions, Server Components, modern tooling  
+  最新ウェブ開発トレンド：エッジ関数、サーバーコンポーネント、モダンツールチェーン
+
+---
+
+## 🎵 Fun Fact | 面白い事実
+
+I work best with lo-fi music in the background—those chill beats help me focus and debug efficiently.  
+バックグラウンドにローファイ音楽を流すと、集中力が高まりバグ修正がはかどります。
+
+---
+
+## 🛠 Tech Stack | 技術スタック
 
 <div align="center">
 
-### 🎨 **Frontend | フロントエンド**
+### 🎨 Frontend | フロントエンド
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,flutter,dart" alt="Frontend Skills" />
 
-### ⚡ **Backend | バックエンド** 
+### ⚡ Backend | バックエンド
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,mongodb,postgresql,redis" alt="Backend Skills" />
 
-### 📱 **Mobile | モバイル**
+### 📱 Mobile | モバイル
 <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Skills" />
 
-### 🛠️ **Tools | ツール**
+### 🛠 Tools | ツール
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,docker,postman,firebase" alt="Tools" />
 
 </div>
 
 ---
 
+## ⚡ Animation & Footer | アニメーション & フッター
 
+<div align="center">
+  <!-- Example coding GIF -->
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Lo-fi GIF" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

@@ -79,7 +79,7 @@ I work best with lo-fi music in the background—those chill beats help me focus
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,flutter,dart" alt="Frontend Skills" />
 
 ### ⚡ Backend | バックエンド
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,mongodb,postgresql,redis" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,flask,mongodb,postgresql,redis,socketio,aws" alt="Backend Skills" />
 
 ### 📱 Mobile | モバイル
 <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Skills" />

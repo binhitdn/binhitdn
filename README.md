@@ -56,7 +56,7 @@ Passionate about crafting refined digital experiences, exploring **Generative AI
 
 - 💻 **Cross-Platform & Cloud Deployment**
   - Experienced with **macOS, Windows, Linux**, configuring web environments using **Nginx, Cloudflare, VPS, AWS**, and web security basics.  
-    マルチOS環境での phát triển, Nginx / Cloudflare / AWS を活用したWeb環境の構築・運用。
+    マルチOS環境での開発, Nginx / Cloudflare / AWS を活用したWeb環境の構築・運用。
 
 ---
 
